@@ -8,10 +8,10 @@
     @apply  text-lg font-bold lg:text-2xl
   }
 .form-input{
-    @apply  bg-component-color-bg font-bold p-2 rounded-md  placeholder:text-sm placeholder:text-white focus:outline-none lg:placeholder:text-lg lg:p-4
+    @apply  bg-component-color-bg font-bold p-2 rounded-md  placeholder:text-xs placeholder:text-white focus:outline-none lg:placeholder:text-lg lg:p-4
 }
 .button-form{
-    @apply bg-component-color-bg-button font-bold p-2 rounded-sm placeholder:text-white focus:outline-none lg:text-lg
+    @apply bg-component-color-bg-button font-bold p-2 rounded-sm text-sm placeholder:text-white focus:outline-none lg:text-lg
 }
 
 

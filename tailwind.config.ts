@@ -13,6 +13,7 @@ const config: Config = {
         // foreground: 'var(--foreground)',
         'app-bg': '#14151A',
         'component-color-bg': '#242736',
+        'component-color-bg-nav': '#171925',
         'component-color-bg-button': '#5B6288',
         'color-pink': '#B59AF2',
       },

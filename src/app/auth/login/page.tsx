@@ -8,7 +8,7 @@ import { FormLogin } from '@/components/auth/FormLogin'
 function Login() {
   return (
     <RootLayout>
-      <main className='w-full h-screen flex flex-col items-center justify-center'>
+      <main className='w-full h-screen flex flex-col items-center justify-center '>
         <div className='flex flex-col gap-4 py-4 w-full text-center'>
           <h1 className='title'>ÁgilAdmin</h1>
           <h2 className='subTitle'>Iniciar Sesión</h2>
